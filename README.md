@@ -14,6 +14,7 @@ A simple React app built using the WordPress REST API. Initialised using the Yeo
 ### Running
 
 - Run `npm install`
+- Run `npm install grunt-serve`
 - Copy `/src/config.default.json` to `/src/config.json` and fill in the values
 - Run `grunt serve`
 
